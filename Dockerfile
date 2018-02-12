@@ -9,8 +9,8 @@ FROM alpine:latest
 
 # Install all the packages required for this application
 #RUN apk add \
-    wget \
-    unzip
+#    wget \
+#    unzip
 
 # Get Terraform package & install it
 #RUN wget https://releases.hashicorp.com/terraform/0.11.2/terraform_0.11.2_linux_amd64.zip?_ga=2.198380015.1989406506.1517290996-1061921137.1517290996
